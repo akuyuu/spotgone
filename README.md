@@ -1,10 +1,10 @@
 # spotgone
-wdmvv/spot-on but in go because prev version sucks!<br>
+akuyuu/spot-on but in go because prev version sucks!<br>
 If you are not familiar with what spoton is in first place - last year I got annoyed by spotify and wrote a thing that takes all songs info from spotify's album/playlist and downloads from youtube via yt-dlp. I am aware that there are certain other tools that can download from spotify stream(?) directly, nonetheless, I decided to rewrite old ver with youtube downloads in go.<br>
 <br>
 ## Installation
 ```
-git clone https://github.com/wdmvv/spotgone
+git clone https://github.com/akuyuu/spotgone
 cd spotgone
 go build && ./spg
 ```
