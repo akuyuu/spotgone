@@ -1,4 +1,4 @@
-package spoton
+package spotgone
 
 import (
 	"fmt"

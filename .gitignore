@@ -18,6 +18,7 @@ main.go
 spg
 Downloads
 notes.txt
+.idea
 
 # ignoring ytdlp binaries
 yt-dlp*
